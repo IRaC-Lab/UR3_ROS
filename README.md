@@ -2,7 +2,9 @@
 
 # Development Environment
 OS : Ubuntu 18.04
+
 ROS : ROS Melodic
+
 UR3 : CB3 Software version >= 3.7
 
 # Reference
